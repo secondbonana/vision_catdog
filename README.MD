@@ -59,7 +59,7 @@
 * Dense 모델에서 Conv2D 모델로 변경
 * 정확도 상승이 되지 않았고 노드의 수가 적어서 그럴 수 있다는 생각이 들어 이미지와 같은 2D 데이터에 좀 더 높은 정확도를 보이는 Conv2D 모델로 변경하였음.  
 
-![image](https://user-images.githubusercontent.com/119937883/219279897-5939b62c-a1a4-452f-9cfa-82a157bda8bf.png)  
+![image](https://user-images.githubusercontent.com/119937883/219281846-2a3ef7ff-3134-4ae0-9310-0b43cc744757.png)  
 
 ![image](https://user-images.githubusercontent.com/119937883/219279918-006dc715-bd7a-41b1-a2fc-9b807007637b.png)
 
